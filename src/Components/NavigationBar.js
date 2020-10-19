@@ -1,5 +1,5 @@
 import React from 'react';
-import './NavigationBar.css';
+import '../Styles/NavigationBar.css';
 import Button from '@material-ui/core/Button';
 
 function NavigationBar() {

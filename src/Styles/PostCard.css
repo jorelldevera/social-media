@@ -1,0 +1,23 @@
+.postcard-container {
+    width: 682px;
+    /* height: 284px; */
+    border: solid;
+    border-image-slice: 1;
+    border-width: 1px;
+    border-radius: 6px;
+    border-collapse: separate; 
+    border-image-source: linear-gradient(to top, #bdbdbd, rgb(0, 0, 0, 0));
+    margin-top: 68px;
+    display: flex;
+}
+
+.postcard-content {
+    margin-left: 13px;
+}
+
+.postcard-interactions {
+    width: 451px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+}

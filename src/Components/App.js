@@ -1,6 +1,6 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import logo from '../logo.svg';
+import '../Styles/App.css';
 import NavigationBar from './NavigationBar.js'
 import WritePost from './WritePost.js'
 import Feed from './Feed.js'
