@@ -1,0 +1,19 @@
+.write-post {
+    width: 682px;
+    height: 83px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    border: solid;
+    border-image-slice: 1;
+    border-width: 1px;
+    border-radius: 6px;
+    border-collapse: separate; 
+    border-image-source: linear-gradient(to top, #bdbdbd, rgb(0, 0, 0, 0));
+    margin-top: 68px;
+}
+
+.avatar {
+    margin-left: 28px;
+}

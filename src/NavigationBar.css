@@ -1,0 +1,28 @@
+.navBar {
+    background-color: #282c34;
+    min-height: 10vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    font-family: Roboto;
+}
+
+.navBar-left {
+    margin-left: 50px;
+}
+
+.navBar-center {
+
+}
+
+.navBar-right {
+    margin-right: 50px;
+}
+
+.button-profile {
+    width: 115px;
+    height: 45px;
+}
